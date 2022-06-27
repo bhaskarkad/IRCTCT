@@ -1,0 +1,61 @@
+[33mcommit fe9512a737aa39f740076f7ec1a2be0c1bb27a21[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bhaskarkad <108111433+bhaskarkad@users.noreply.github.com>
+Date:   Mon Jun 27 09:43:36 2022 +0530
+
+    Update file5
+
+[33mcommit d441519476aa41df09c34377a804fca3f457138c[m
+Author: bhaskarkad <108111433+bhaskarkad@users.noreply.github.com>
+Date:   Mon Jun 27 09:42:21 2022 +0530
+
+    Create file5
+
+[33mcommit 959786a4fa2f52dc1df32c771711804639b3134b[m
+Author: “venkatesh” <“venkatesh@gmail.com”>
+Date:   Mon Jun 27 09:36:52 2022 +0530
+
+    Revert "deleting file3"
+    
+    This reverts commit 4a8454922cbfb8b3d4a49fe795e5e60a544ff448.
+
+[33mcommit 4a8454922cbfb8b3d4a49fe795e5e60a544ff448[m
+Author: “venkatesh” <“venkatesh@gmail.com”>
+Date:   Mon Jun 27 09:35:52 2022 +0530
+
+    deleting file3
+
+[33mcommit 36c069b103769b88427c979ceedd33176983aef7[m
+Author: “venkatesh” <“venkatesh@gmail.com”>
+Date:   Mon Jun 27 09:31:15 2022 +0530
+
+    only 2 lines are removed
+
+[33mcommit 418341b6777d1426665e6e5d4d152edd03f7c35e[m
+Author: “venkatesh” <“venkatesh@gmail.com”>
+Date:   Mon Jun 27 09:28:04 2022 +0530
+
+    second user name venkatesh
+
+[33mcommit e56c266ac329fd50a7354a31a52b30ae1b175089[m
+Author: “Nagendra” <“nagendra@gmail.com”>
+Date:   Mon Jun 27 09:20:45 2022 +0530
+
+    created for my practice
+
+[33mcommit 441e11f1b580f296eb471e9c2ec9ee7e8f0ce46e[m
+Author: bhaskarkad <108111433+bhaskarkad@users.noreply.github.com>
+Date:   Mon Jun 27 09:07:42 2022 +0530
+
+    Create file2
+
+[33mcommit f8294d9535e240239f4830cb666d980812e235e7[m
+Author: bhaskarkad <108111433+bhaskarkad@users.noreply.github.com>
+Date:   Fri Jun 24 09:29:29 2022 +0530
+
+    Create file1
+
+[33mcommit 9a758fdfec37416017d2ed5e85695efc3132d76c[m
+Author: bhaskarkad <108111433+bhaskarkad@users.noreply.github.com>
+Date:   Fri Jun 24 09:28:49 2022 +0530
+
+    Initial commit
